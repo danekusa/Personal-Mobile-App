@@ -20,7 +20,7 @@ EasyBasket is a React Native-developed mobile application that lets customers pu
 In the Video we have demonstrated the application code and how it will work in real world.
    
 **GitHub Repository**
-EasyBasket GitHub Repository
+https://github.com/danekusa/Personal-Mobile-App
 
 **How to Run**
 1.	Clone the repository to your local machine.
