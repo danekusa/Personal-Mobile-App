@@ -1,0 +1,84 @@
+/* styles.css */
+.container {
+  flex: 1;
+  background-color: #fff;
+}
+
+.header {
+  padding: 20px;
+  border-bottom-width: 1px;
+  border-bottom-color: #ccc;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.promotions {
+  padding: 20px;
+  background-color: #e6f7ff;
+  margin-bottom: 20px;
+}
+
+.promotionText {
+  margin-bottom: 10px;
+}
+
+.carouselContainer {
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.carouselImage {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.sectionTitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.searchBar {
+  border-width: 1px;
+  border-color: #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.input {
+  border-width: 1px;
+  border-color: #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.dashboard,
+.menuItems,
+.cart,
+.paymentMethod {
+  padding: 20px;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.itemContainer {
+  margin-bottom: 20px;
+}
+
+.itemImage {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+
